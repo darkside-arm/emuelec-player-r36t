@@ -1,6 +1,6 @@
 # Parasyte Music Player
 
-A lightweight SDL2-based music player designed for handheld retro gaming consoles like the **R36T Max**, **R36T**, and **R36S Ultra**. Built with Python and PySDL2, it runs natively on Linux ARM64/ARMv7 devices and also on Windows for development.
+A lightweight SDL2-based music player designed for handheld retro gaming consoles like the **R36T Max**, **R36T**, and **R36S Ultra**. Built with Python and PySDL2, it runs natively on Linux ARM64/ARMv7 devices and also on Windows for development. COPY YOUR MUSIC TO `/roms/music`.
 
 ## Features
 
