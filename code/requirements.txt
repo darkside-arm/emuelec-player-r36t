@@ -1,0 +1,8 @@
+pysdl2
+pysdl2-dll
+pyinstaller
+Pillow
+pycaw; sys_platform == 'win32'
+comtypes; sys_platform == 'win32'
+mutagen
+pyftpdlib

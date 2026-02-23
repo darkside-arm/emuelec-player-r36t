@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./MusicPlayer.sh</path>
+		<name>Music Player</name>
+		<image>./bin/icon.png</image>
+		<playcount>9</playcount>
+		<lastplayed>20260209T185036</lastplayed>
+		<gametime>13790</gametime>
+		<lang>en</lang>
+	</game>
+</gameList>

@@ -1,0 +1,4 @@
+pysdl2
+pyinstaller
+mutagen
+pyftpdlib
