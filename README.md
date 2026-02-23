@@ -119,11 +119,13 @@ Expected output should show `ELF 64-bit LSB executable, ARM aarch64`.
 
 ## Deploying to the Device
 
-1. Copy the following to your device (e.g., via FTP or SD card):
-   - `hello_aarch64` (the compiled binary)
-   - `assets/` folder
-   - `scripts/runme.sh`
-   - Your `music/` folder with MP3 files
+1. Copy the following launcher folder to your device (SD card):
+   - `MusicPlayer.sh`
+   - `gamelist.xml` 
+   - `bin` (folder)
+   - `bin/icon.png`
+   - `bin/hello_aarch64`
+   - COPY YOUR MUSIC TO `/roms/music`
 
 2. Make sure `runme.sh` and `hello_aarch64` are executable:
 
