@@ -4,6 +4,9 @@ A lightweight SDL2-based music player designed for handheld retro gaming console
 
 COPY YOUR MUSIC TO `/roms/music`.
 
+![My local image](mp3.jpeg)
+
+
 ## Features
 
 - MP3 playback with album cover art display
